@@ -1,8 +1,0 @@
----
-- hosts: localhost 
-  vars: 
-    ansible_connection: local
-    gathering: no 
-  tasks:
-  - debug: 
-      msg: Teste
