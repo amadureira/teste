@@ -45,4 +45,3 @@ A máquina apresentou um comportamento estranho, analisando o consumo de recurso
 
 Tentei conectar no servidor web pelo meu browser, mas não consegui. Pelo que pude analisar não existia regras de IPTables bloqueando o acesso. Então entendo que temos um bloqueio da porta 80 para o mundo. 
 
-git@github.com:amadureira/scripts.git
